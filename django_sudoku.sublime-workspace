@@ -1,0 +1,367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"http",
+				"HttpResponse"
+			],
+			[
+				"random",
+				"random_number_shuffle"
+			],
+			[
+				"deck",
+				"deck_of_cards"
+			],
+			[
+				"d",
+				"deck_of_cards"
+			],
+			[
+				"function",
+				"function_name"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"t",
+				"transfor_sqr_to_col_list"
+			],
+			[
+				"tra",
+				"transfor_sqr_to_row_list"
+			],
+			[
+				"tran",
+				"transform_irow_jcol_to_sqr_l"
+			],
+			[
+				"board_",
+				"board_possible"
+			],
+			[
+				"solve",
+				"solve_sudoku"
+			],
+			[
+				"che",
+				"check_two_rule"
+			],
+			[
+				"ind",
+				"index_row"
+			],
+			[
+				"in",
+				"index_row"
+			],
+			[
+				"index",
+				"index_col"
+			],
+			[
+				"col",
+				"col_to_remove"
+			],
+			[
+				"upd",
+				"update_keep_track_row_lists"
+			],
+			[
+				"up",
+				"update_keep_track_col_lists"
+			],
+			[
+				"board",
+				"board_possible"
+			],
+			[
+				"le",
+				"left_index"
+			],
+			[
+				"left_",
+				"left_index-1"
+			],
+			[
+				"r",
+				"right_index"
+			],
+			[
+				"lef",
+				"left_index-1"
+			],
+			[
+				"left",
+				"left_index"
+			],
+			[
+				"piv",
+				"pivot_index"
+			],
+			[
+				"pi",
+				"pivot_index"
+			],
+			[
+				"sw",
+				"switch_around_pivot"
+			],
+			[
+				"found",
+				"found_lo"
+			],
+			[
+				"lo",
+				"lo_found"
+			],
+			[
+				"hi",
+				"hi_found"
+			],
+			[
+				"ri",
+				"right_index"
+			],
+			[
+				"no",
+				"no_row_prevention"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"possibl",
+				"possible_value_board_index"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/teresalacroix/Sudoku_Git/django_project_sudoku/django_project_sudoku"
+	],
+	"file_history":
+	[
+		"/Users/teresalacroix/Sudoku_Git/Sublime_project_sudoku",
+		"/Users/teresalacroix/Dev/trydjango/src/trydjango/products/models.py",
+		"/Users/teresalacroix/Dev/trydjango/src/trydjango/products/admin.py",
+		"/Users/teresalacroix/Dev/trydjango/trydjango.sublime-project",
+		"/Users/teresalacroix/dev/trydjango/trydjango.sublime-project",
+		"/Users/teresalacroix/Desktop/cards.py",
+		"/Users/teresalacroix/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/teresalacroix/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/teresalacroix/Desktop/script.py",
+		"/Users/teresalacroix/Desktop/untitled.py",
+		"/Users/teresalacroix/Desktop/Python code/function_name.matlab",
+		"/Users/teresalacroix/Desktop/Python code/import tensorflow",
+		"/Users/teresalacroix/Desktop/css cheat sheet/css/style.css",
+		"/Users/teresalacroix/Desktop/css cheat sheet/index.html",
+		"/Users/teresalacroix/Desktop/style.css",
+		"/Users/teresalacroix/Desktop/index.html",
+		"/html_cheatSheet",
+		"/Users/teresalacroix/Desktop/Python code/Diamon.py",
+		"/Users/teresalacroix/Desktop/Python code/Sudoku Solve",
+		"/Users/teresalacroix/Desktop/Python code/Sudoku",
+		"/Users/teresalacroix/Desktop/Python code/sudoku.py",
+		"/Users/teresalacroix/Desktop/Python code/Sudoku Challenge",
+		"/Users/teresalacroix/Desktop/Python code/trial and error sudoku.py",
+		"/Users/teresalacroix/Desktop/Python code/board=[",
+		"/Users/teresalacroix/Desktop/Python code/print('Hello')",
+		"/Users/teresalacroix/Desktop/Python code/test",
+		"/Users/teresalacroix/Desktop/Python code/Test"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 326.0
+	},
+	"output.find_results":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "django_sudoku.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
